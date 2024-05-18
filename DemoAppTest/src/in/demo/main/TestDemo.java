@@ -11,6 +11,8 @@ public class TestDemo {
 		
 		System.out.println("Reversed string is :" + sb);
 		System.out.println("made some change");
+		
+		System.out.println("Trying out git changes /commit");
 
 	}
 
